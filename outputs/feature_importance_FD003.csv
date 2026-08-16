@@ -1,0 +1,16 @@
+feature,readable,mean_abs_shap
+s9,Physical core speed,1.0647616
+s9_roll5,Physical core speed roll5,0.9980081
+s14_roll5,Corrected core speed roll5,0.8247046
+s14,Corrected core speed,0.78198713
+s11,Static pressure HPC outlet,0.73252237
+s11_roll5,Static pressure HPC outlet roll5,0.6988949
+s15_roll5,Bypass ratio roll5,0.6376691
+s13_delta,Corrected fan speed delta,0.6281408
+s4,Total temperature HPC outlet,0.5826044
+s8_delta,Physical fan speed delta,0.5704271
+s4_roll5,Total temperature HPC outlet roll5,0.569273
+s20_roll5,HPT coolant bleed roll5,0.53490114
+s17_roll5,Bleed enthalpy roll5,0.4967934
+s15,Bypass ratio,0.4899829
+s2_roll5,Total temperature fan inlet roll5,0.48191676

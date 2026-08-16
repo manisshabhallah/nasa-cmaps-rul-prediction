@@ -1,0 +1,4 @@
+Model,Test_RMSE,Test_MAE
+Linear Regression,20.28,16.06
+Random Forest,17.71,12.79
+LSTM (from evaluate.py),13.71,

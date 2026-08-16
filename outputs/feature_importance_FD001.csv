@@ -1,0 +1,16 @@
+feature,readable,mean_abs_shap
+s9_delta,Physical core speed delta,5.6289735
+s14_delta,Corrected core speed delta,5.4746
+s9_roll5,Physical core speed roll5,3.6953995
+s14_roll5,Corrected core speed roll5,3.4212074
+s8_delta,Physical fan speed delta,3.393954
+s9,Physical core speed,3.3653388
+s14,Corrected core speed,3.1473129
+s13_delta,Corrected fan speed delta,2.8278499
+s8_roll5,Physical fan speed roll5,2.5509918
+s13_roll5,Corrected fan speed roll5,2.379827
+s11_delta,Static pressure HPC outlet delta,2.2452726
+s8,Physical fan speed,2.2152088
+s13,Corrected fan speed,2.159214
+s11_roll5,Static pressure HPC outlet roll5,2.0471482
+s7_delta,Total pressure HPC outlet delta,1.9952046
